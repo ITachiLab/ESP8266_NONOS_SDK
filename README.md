@@ -1,3 +1,7 @@
-# ESP8266_NONOS_SDK
+# ESP8266 Non-OS SDK v2.1.0 #
 
-All documentations @ http://espressif.com/en/support/download/documents?keys=&field_type_tid%5B%5D=14
+This repository is a little modfied fork of the official repository with the Non-OS SDK.
+
+### Changes ###
+
+- Added an `src` directory with a basic file structure, ready to be used for a user code.
